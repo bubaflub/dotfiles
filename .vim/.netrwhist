@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/bob/Desktop/work/freelance/espelage'
+let g:netrw_dirhist_2='/Users/bob'
+let g:netrw_dirhist_3='/Users/bob/Desktop'
+let g:netrw_dirhist_4='/Users/bob'
+let g:netrw_dirhist_5='/Users/bob/Desktop'
+let g:netrw_dirhist_6='/Users/bob/Desktop/screensaver_files'
+let g:netrw_dirhist_7='/usr/share/file/magic'

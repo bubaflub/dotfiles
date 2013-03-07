@@ -1,0 +1,1 @@
+{"generated_by":"Vimana-2010.09302","installer_type":"auto","version":0.2,"files":[{"checksum":"09b795f9df7a4987c2532f2bfeb56950","file":"/Users/bob/.vim/doc/fugitive.txt"},{"checksum":"6cc212c78a06825875d4c1214750ec24","file":"/Users/bob/.vim/plugin/fugitive.vim"}],"package":"fugitive.vim"}

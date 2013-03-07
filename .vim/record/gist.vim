@@ -1,0 +1,1 @@
+{"installer_type":"text","generated_by":"Vimana-2.23","files":[{"checksum":"f4afa875385e09525b2517f9e0c09db9","file":"/Users/bob/.vim/plugin/gist.vim"}],"version":0.3,"package":"gist.vim"}

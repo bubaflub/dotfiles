@@ -1,0 +1,5 @@
+getscript.vba: call delete('/Users/bob/.vim/plugin/getscriptPlugin.vim')|call delete('/Users/bob/.vim/autoload/getscript.vim')|call delete('/Users/bob/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/Users/bob/.vim/doc/pi_getscript.txt')
+Align.vba: call delete('/Users/bob/.vim/plugin/AlignPlugin.vim')|call delete('/Users/bob/.vim/plugin/AlignMapsPlugin.vim')|call delete('/Users/bob/.vim/plugin/cecutil.vim')|call delete('/Users/bob/.vim/doc/Align.txt')|call delete('/Users/bob/.vim/autoload/Align.vim')|call delete('/Users/bob/.vim/autoload/AlignMaps.vim')
+delimitMate.vba: call delete('/Users/bob/.vim/doc/delimitMate.txt')|call delete('/Users/bob/.vim/plugin/delimitMate.vim')
+cecutil.vba: call delete('/Users/bob/.vim/plugin/cecutil.vim')|call delete('/Users/bob/.vim/doc/cecutil.txt')
+histwin-0.12.vba: call delete('/Users/bob/.vim/plugin/histwinPlugin.vim')|call delete('/Users/bob/.vim/autoload/histwin.vim')|call delete('/Users/bob/.vim/doc/histwin.txt')
